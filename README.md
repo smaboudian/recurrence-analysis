@@ -1,5 +1,4 @@
-# Recurrence analysis project 
-## Interactive plotting notebook
+# Recurrence analysis project: interactive plotting notebook
 
 
 ## Instructions 
