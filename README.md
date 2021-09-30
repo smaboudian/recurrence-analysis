@@ -2,7 +2,7 @@
 
 
 ## Instructions 
-Access the notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smaboudian/recurrence-analysis/HEAD)
+Access the notebooks here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smaboudian/recurrence-analysis/HEAD)
 - analysis code for results: recan_analysis.ipynb
 - static figures: static_plots.ipynb
 - to generate interactive plots: interactive_plots.ipynb ([open in Google Colab](https://colab.research.google.com/drive/11uSkmbwWUZnGNztV1ulUWQxZ2VnhWnwX?usp=sharing) for interactive features)
