@@ -2,7 +2,10 @@
 
 
 ## Instructions 
-Access the notebook to generate interactive plots: interactive_plots.ipynb
+Access the notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smaboudian/recurrence-analysis/HEAD)
+- to generate interactive plots: interactive_plots.ipynb
+- analysis code for results: recan_analysis.ipynb
+- to generate static figures: static_plots.ipynb
 
 ## Dependencies/Requirements
 No downloads needed. Binder will build the enviroment with necessary dependencies to allow the notbook to be run online.
