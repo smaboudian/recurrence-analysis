@@ -3,7 +3,6 @@
 
 ## Instructions 
 Access the notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smaboudian/recurrence-analysis/HEAD)
-- to generate interactive plots: interactive_plots.ipynb
 - analysis code for results: recan_analysis.ipynb
 - to generate static figures: static_plots.ipynb
 
