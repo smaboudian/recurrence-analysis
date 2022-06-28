@@ -9,4 +9,3 @@ statsmodels==0.12.2
 patsy==0.5.1
 researchpy==0.1.9
 seaborn==0.11.1
-csv==1.0
