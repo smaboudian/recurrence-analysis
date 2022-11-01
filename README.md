@@ -1,5 +1,6 @@
 # Recurrence analysis project: 
 
+Corresponding publication: [Maboudian et al., Front Aging Neurosci. 2022](https://www.frontiersin.org/articles/10.3389/fnagi.2022.810799/full)   
 
 ## Instructions 
 Access the notebooks here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smaboudian/recurrence-analysis/HEAD)
